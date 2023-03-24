@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EKMCMC"]
+	path = EKMCMC
+	url = https://github.com/cran/EKMCMC
+	shallow = true
+	registered = true
